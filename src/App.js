@@ -10,12 +10,15 @@ function App() {
           <h1>Weather App </h1>
           <Weather />
           <p id="text">
-            Cooded by <a href="https://github.com/">Tamana Farzami </a>
+            Cooded by <a href="https://github.com/Tamana543">Tamana Farzami </a>
             published in{" "}
-            <a href="https://github.com/Tamana543/Weather-app-with-React/upload">
+            <a href="https://github.com/Tamana543/weather-app-made-by-react/settings">
               Get Hub
             </a>
-            And is hosted in <a href="/">Netlify</a>
+            And is hosted in{" "}
+            <a href="https://app.netlify.com/sites/endearing-hotteok-a63f6d/overview">
+              Netlify
+            </a>
           </p>
         </header>
       </div>
