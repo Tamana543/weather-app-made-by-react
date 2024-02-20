@@ -14,7 +14,7 @@ function App() {
             <a
               href="https://github.com/Tamana543"
               target="_blank"
-              rel="noreferrer"
+              rel="noopener noreferrer"
             >
               Tamana Farzami{" "}
             </a>
@@ -22,7 +22,7 @@ function App() {
             <a
               href="https://github.com/Tamana543/weather-app-made-by-react/settings"
               target="_blank"
-              rel="noreferrer"
+              rel="noopener noreferrer"
             >
               Get Hub
             </a>
@@ -30,7 +30,7 @@ function App() {
             <a
               href="https://app.netlify.com/sites/endearing-hotteok-a63f6d/overview"
               target="_blank"
-              rel="noreferrer"
+              rel="noopener noreferrer"
             >
               Netlify
             </a>
