@@ -11,13 +11,18 @@ function App() {
           <Weather />
           <p id="text">
             Cooded by{" "}
-            <a href="https://github.com/Tamana543" target="_blank">
+            <a
+              href="https://github.com/Tamana543"
+              target="_blank"
+              rel="noreferrer"
+            >
               Tamana Farzami{" "}
             </a>
             published in{" "}
             <a
               href="https://github.com/Tamana543/weather-app-made-by-react/settings"
               target="_blank"
+              rel="noreferrer"
             >
               Get Hub
             </a>
@@ -25,6 +30,7 @@ function App() {
             <a
               href="https://app.netlify.com/sites/endearing-hotteok-a63f6d/overview"
               target="_blank"
+              rel="noreferrer"
             >
               Netlify
             </a>
